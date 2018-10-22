@@ -11,6 +11,8 @@
 
 	Mediante polimorfismo, cada clase o estructura que herede de Test puede implementar el operador () a su manera, de modo que cada clase o estructura tiene su propio test.
 
+	https://www.geeksforgeeks.org/functors-in-cpp/
+
 */
 
 #include <iostream>
